@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "AbtuwoqbhL2lodrihzCBGDRObKnndTvAPQcaH1kwBqrhYqeaJaeZImmzQ4U40WpJQ1f/3I9iTBTdCSofGHkYcw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\willa\\OneDrive\\Escritorio\\cadastro-series-dotNET\\DIO.Series.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\willa\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\willa\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\willa\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\willa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
